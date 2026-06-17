@@ -1,0 +1,6 @@
+{
+  "name": "Indian MSME Billing & Invoice Generator",
+  "description": "A clean, simple single-page offline invoice generator that allows users to easily input business and client details, add calculation items, and download a professional PDF invoice instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
